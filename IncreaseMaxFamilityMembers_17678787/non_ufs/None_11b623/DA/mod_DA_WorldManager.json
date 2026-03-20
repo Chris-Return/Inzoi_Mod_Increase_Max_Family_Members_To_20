@@ -1,0 +1,13 @@
+{
+	"meta":
+	{
+		"schema": "DataAssetSnapshot",
+		"scriptPath": "/Script/BlueUtils.B1WorldManagerConfigDataAsset",
+		"typeId": "DA_WorldManager"
+	},
+	"data":
+	{
+		"maxPopulationInWorld": 250,
+		"assetBundleData": ""
+	}
+}

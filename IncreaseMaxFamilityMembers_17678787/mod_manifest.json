@@ -1,0 +1,29 @@
+{
+	"FriendlyName": "IncreaseMaxFamilityMembers",
+	"ProjectName": "IncreaseMaxFamilityMembers_17678787",
+	"Description": "Incrase max family members",
+	"Author": "Chris",
+	"Version": "20260204.10233.W.MODKIT.EGS",
+	"Url": "",
+	"Dependencies": [],
+	"Assets": [],
+	"Maps": [],
+	"NonAssets": [
+		"/non_ufs/None_11b623/DA/mod_DA_WorldManager.json",
+		"/non_ufs/None_55e0ac/DA/mod_DA_Door.json",
+		"/non_ufs/None_95872b/DA/mod_DA_HouseholdBiz.json",
+		"/non_ufs/None_de1dbc/DA/mod_DA_Household.json"
+	],
+	"FileChecksums": [
+		"IncreaseMaxFamilityMembers_17678787.uplugin|6cd3f9b9e9e78b856db9d7200453e72a",
+		"mod_assethash.json|941a89947c1be3101e8e1958215b68c8",
+		"non_ufs/None_11b623/DA/mod_DA_WorldManager.json|c80f0e5d954e10593a74a1b264e9a723",
+		"non_ufs/None_55e0ac/DA/mod_DA_Door.json|4e83199569d222cd0bc74a680f7a6321",
+		"non_ufs/None_95872b/DA/mod_DA_HouseholdBiz.json|a4ba22658dfe7c6485a09a855c3ad719",
+		"non_ufs/None_de1dbc/DA/mod_DA_Household.json|89624b339506e4665b2aed2f797f673f"
+	],
+	"bEnable": true,
+	"PackageTime": "2026-03-13T13:02:20.259731Z",
+	"ValidatedGameVersion": "20260223.10574.W",
+	"LoadOrder": 1
+}

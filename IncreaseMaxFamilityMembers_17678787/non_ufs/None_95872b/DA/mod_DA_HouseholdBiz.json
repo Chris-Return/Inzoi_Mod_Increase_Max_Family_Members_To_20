@@ -1,0 +1,16 @@
+{
+	"meta":
+	{
+		"schema": "DataAssetSnapshot",
+		"scriptPath": "/Script/BlueUtils.B1HouseholdBizDataAsset",
+		"typeId": "DA_HouseholdBiz"
+	},
+	"data":
+	{
+		"customerBaseVisitHour": 6,
+		"maxCustomerFilterCount": 20,
+		"maxStaffActivityCount": 20,
+		"farSiteBaseCustomerCountPerHour": 10,
+		"assetBundleData": ""
+	}
+}

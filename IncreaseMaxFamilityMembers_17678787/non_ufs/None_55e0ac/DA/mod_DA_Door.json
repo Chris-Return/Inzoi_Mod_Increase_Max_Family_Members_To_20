@@ -1,0 +1,113 @@
+{
+	"meta":
+	{
+		"schema": "DataAssetSnapshot",
+		"scriptPath": "/Script/BlueUtils.B1DoorDataAsset",
+		"typeId": "DA_Door"
+	},
+	"data":
+	{
+		"doorPermissionData":
+		{
+			"nobody":
+			{
+				"permissionText": "UI_Door_Permission_Nobody_Text",
+				"allowedSiteTypeInPackage": [
+					"Residence"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": "DoorMessage_Nobody_NoPermissionMessage"
+			},
+			"family":
+			{
+				"permissionText": "UI_Door_Permission_Family_Text",
+				"allowedSiteTypeInPackage": [
+					"Residence",
+					"HouseholdBiz"
+				],
+				"allowedBuildMode": false,
+				"noPermissionToastMessage": "DoorMessage_Family_NoPermissionMessage"
+			},
+			"me":
+			{
+				"permissionText": "UI_Door_Permission_Me_Text",
+				"allowedSiteTypeInPackage": [
+					"Residence"
+				],
+				"allowedBuildMode": false,
+				"noPermissionToastMessage": "DoorMessage_Me_NoPermissionMessage"
+			},
+			"relationship":
+			{
+				"permissionText": "UI_Door_Permission_Relationship_Text",
+				"allowedSiteTypeInPackage": [
+					"Residence"
+				],
+				"allowedBuildMode": false,
+				"noPermissionToastMessage": "DoorMessage_Relationship_NoPermissionMessage"
+			},
+			"company":
+			{
+				"permissionText": "UI_Door_Permission_Company_Text",
+				"allowedSiteTypeInPackage": [],
+				"allowedBuildMode": false,
+				"noPermissionToastMessage": "DoorMessage_Company_NoPermissionMessage"
+			},
+			"male":
+			{
+				"permissionText": "UI_Door_Permission_Male_Text",
+				"allowedSiteTypeInPackage": [
+					"HouseholdBiz"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": "DoorMessage_Male_NoPermissionMessage"
+			},
+			"female":
+			{
+				"permissionText": "UI_Door_Permission_Female_Text",
+				"allowedSiteTypeInPackage": [
+					"HouseholdBiz"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": "DoorMessage_Female_NoPermissionMessage"
+			},
+			"businessOwner":
+			{
+				"permissionText": "UI_Door_Permission_BusinessOwner_Text",
+				"allowedSiteTypeInPackage": [
+					"HouseholdBiz"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": "DoorMessage_BusinessOwner_NoPermissionMessage"
+			},
+			"businessOwnerOrEmployee":
+			{
+				"permissionText": "UI_Door_Permission_BusinessOwnerOrEmployee_Text",
+				"allowedSiteTypeInPackage": [
+					"HouseholdBiz"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": "DoorMessage_BusinessOwnerOrEmployee_NoPermissionMessage"
+			},
+			"businessOperating":
+			{
+				"permissionText": "UI_Door_Permission_BusinessOperating_Text",
+				"allowedSiteTypeInPackage": [
+					"HouseholdBiz"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": "DoorMessage_BusinessOperating_NoPermissionMessage"
+			},
+			"all":
+			{
+				"permissionText": "UI_Door_Permission_All_Text",
+				"allowedSiteTypeInPackage": [
+					"Residence"
+				],
+				"allowedBuildMode": true,
+				"noPermissionToastMessage": ""
+			}
+		},
+		"assetBundleData": ""
+	}
+}

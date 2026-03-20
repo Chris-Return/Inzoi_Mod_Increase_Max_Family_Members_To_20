@@ -1,0 +1,19 @@
+{
+	"meta":
+	{
+		"schema": "DataAssetSnapshot",
+		"scriptPath": "/Script/BlueUtils.B1HouseholdDataAsset",
+		"typeId": "DA_Household"
+	},
+	"data":
+	{
+		"maxHouseholdMemberCount": 20,
+		"createHouseholdCurrencyDatasBySimulate": [
+			{
+				"currencyId": "Mew",
+				"value": 29001
+			}
+		],
+		"assetBundleData": ""
+	}
+}
